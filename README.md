@@ -1,4 +1,4 @@
-# Project Zenith | DLC Collection
+<h1 align="center">Project Zenith | DLC Collection</h1>
 
 Welcome to the central repository for **Project Zenith** DLCs.
 
